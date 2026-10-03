@@ -7,7 +7,7 @@ B.Tech Information Technology student at Bengal College of Engineering & Technol
 - 🎓 Pursuing B.Tech in Information Technology (2023–2027) at BCET, Durgapur
 - 🌱 Currently learning **React** (components, JSX, props, state)
 - 💻 Practicing **Data Structures** and **OOP** in Java
-- 🎤 Public Relations Lead & Event Organiser at **Robonixx Club**, BCET
+- 🎤 Former Public Relations Lead & Event Organiser at **Robonixx Club**, BCET (2023–2026)
 - 🔧 Student Member, **IETE** (BCET Chapter)
 - 📍 From Dhanbad, Jharkhand
 
@@ -33,7 +33,7 @@ A browser-based memory game built with **vanilla JavaScript**, the **Web Audio A
 
 ## 📊 GitHub Stats
 
-![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhinav19-web&show_icons=true&theme=radical)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav19-web&layout=compact&theme=radical)
 
